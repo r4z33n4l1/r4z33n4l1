@@ -1,8 +1,6 @@
 ---
 title: Razeen
 date: '2024-03-08'
-spoiler: Dynamic and Engaging GitHub Profile README
-categories: ["tech-enthusiast", "all-profile"]
 githubUsername: 'r4z33n4l1'
 ---
 
