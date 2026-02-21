@@ -1,51 +1,58 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/r4z33n4l1/r4z33n4l1/master/wave-hi.gif" width="35px" alt="👋"/>  
-  <strong>Hi, I’m Razeen Ali</strong>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
+
+<h1>
+  <img src="https://raw.githubusercontent.com/r4z33n4l1/r4z33n4l1/master/wave-hi.gif" width="28px"/>
+  &nbsp;Razeen Ali
 </h1>
 
-<p align="center">
-Founder @ <a href="https://razeenali.com">Razeen Ventures</a></em>
-</p>
+<p>cs + math @ uoft &nbsp;·&nbsp; apps on the store &nbsp;·&nbsp; building things</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/razeenali/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://razeenali.com">
-    <img src="https://img.shields.io/badge/Website-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://github.com/r4z33n4l1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/razeenali/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://razeenali.com">
+  <img src="https://img.shields.io/badge/razeenali.com-111111?style=flat-square&logo=safari&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
-- **💻 Role:** Software Developer @ Borderpass  
-- **🌱 Founder:** Razeen Ventures – crafting tech solutions for scale  
-- **💡 Passion:** Turning concepts into production-grade apps  
-- **🔭 Focus Areas:** Identity verification, fintech integrations, cross-border workflows  
-- **📫 Reach Me:** [LinkedIn](https://linkedin.com/in/razeenali/) · [razeenali.com](https://razeenali.com)
+## 📱 shipped
+
+apps live on the App Store — some of them, anyway
+
+| | App | What it does |
+|--|-----|--------------|
+| 🧕 | [**Slate**](https://apps.apple.com/us/app/slate-the-modest-fashion-hub/id6752974390) | modest fashion hub |
+| 🕯️ | [**Ritual**](https://apps.apple.com/us/app/ritual-by-cari-studios/id6757550661) | by Cari Studios |
+| 💼 | [**Business Card Holder**](https://apps.apple.com/us/app/business-card-holder/id6757991003) | exactly what it sounds like |
 
 ---
 
-### 🔧 Tech Stack & Tools
-```javascript
-const razeen = {
-  education: "BSc Computer Science & Math, UofT",
-  roles: [
-    "Software Developer @ Borderpass",
-    "Founder @ Razeen Ventures",
-    "VP @ UTM Robotics",
-    "Tech Associate @ IEEE UofT & MCSS"
-    "World champion @ FGC 2020"
-  ],
-  languages: ["Python", "JavaScript (ES6+)", "Rust", "Go"],
-  frameworks: ["Django", "React", "Node.js", "FastAPI"],
-  infra: ["AWS", "Firebase", "Docker", "Kubernetes", "PostgreSQL"],
-  design: ["Figma", "Material‑UI"],
-  openTo: "Collaborations · Mentorship · New Challenges"
-}
-```
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=r4z33n4l1&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true" height="140"/> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4z33n4l1&layout=compact&theme=graywhite&hide_border=true" height="140"/> </p>
+## 📊 commits
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=r4z33n4l1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" height="150"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=r4z33n4l1&theme=dark&hide_border=true&background=0d1117&stroke=8b949e&ring=58a6ff&fire=ff6b6b&currStreakLabel=ffffff" height="150"/>
+
+</div>
+
+---
+
+## 🔨 right now
+
+building **[Bullpen](https://razeenali.com)** — an AI-native software factory
+
+---
+
+<div align="center">
+<sub>open to collabs · <a href="https://linkedin.com/in/razeenali/">say hi</a></sub>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+</div>
