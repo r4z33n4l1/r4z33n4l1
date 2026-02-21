@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em>Software Developer @ <a href="https://borderpass.io">Borderpass</a> · Founder @ <a href="https://razeenali.com">Razeen Ventures</a></em>
+Founder @ <a href="https://razeenali.com">Razeen Ventures</a></em>
 </p>
 
 <p align="center">
